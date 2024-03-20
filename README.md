@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SilentStorm170
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on TINET
+- 😄 Pronouns: him/him
